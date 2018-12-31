@@ -1,0 +1,19 @@
+1. 10 x 10 good
+2. The line is 9
+3. The line is 2
+4. One line is 11
+5. One line is 2
+6. One line is 50 characters
+7. The line is 50
+8. One line contains spaces at the end of the line
+9. After 10th line, leaves 3 \newline
+10. 10 x 10 but one of them is a special character
+11 One line constain a space as a character keeping 10 x 10
+12. doesn't include the argument
+13. include 3 arguments
+14. Too many arguments
+15. the file is not available
+
+
+
+

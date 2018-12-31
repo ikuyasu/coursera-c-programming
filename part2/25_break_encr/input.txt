@@ -1,0 +1,8 @@
+This frequency distribution means that if you know (or suspect)
+that a file contains English text encrypted with a Caesar Cipher,
+you can simply count the frequency of all letters in it, and guess
+that the letter which occurs most often is 'e'.   Once you know
+which letter is 'e', you can backsolve for the key and decrypt
+the file.  Note that in practice this requires a large enough
+text that "the law of large numbers" applies---and while it is
+not guaranteed to work, it typically does
